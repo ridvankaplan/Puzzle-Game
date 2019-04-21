@@ -1,0 +1,10 @@
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle Oyunu.csprojAssemblyReference.cache
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle_Oyunu.Properties.Resources.resources
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle Oyunu.csproj.GenerateResource.cache
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle Oyunu.csproj.CoreCompileInputs.cache
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\bin\Debug\Puzzle Oyunu.exe.config
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\bin\Debug\Puzzle Oyunu.exe
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\bin\Debug\Puzzle Oyunu.pdb
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle Oyunu.exe
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle Oyunu.pdb
+c:\users\ridvan\source\repos\Puzzle Oyunu\Puzzle Oyunu\obj\Debug\Puzzle_Oyunu.Form1.resources

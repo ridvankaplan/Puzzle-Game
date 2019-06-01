@@ -1,6 +1,4 @@
-﻿//160202019 - Cihangir İ. BAŞTAN
-//160202013 - Rıdvan KAPLAN
-
+﻿
 using System;
 using System.Drawing;
 using System.IO;
@@ -56,7 +54,8 @@ namespace Puzzle_Oyunu
         private void findMax()
         {
             try { 
-            StreamReader reader = File.OpenText("C:\\Users\\Ridvan\\source\\repos\\Puzzle Oyunu\\enyuksekskor.txt");
+
+            StreamReader reader = File.OpenText("C:\\Users\\Ridvan\\Desktop\\enyuksekskor.txt");
             string line;
             int[] points = new int[100];
             int i = 1;
@@ -198,6 +197,7 @@ namespace Puzzle_Oyunu
             findMax();
         }
 
+        //Dogru resim oldugunde 4 puan arttırılıyor yanlis oldugunda 8 puan eksiltiliyor
         private void pointControl(int right)
         {
             if (tempright < right)
@@ -221,7 +221,7 @@ namespace Puzzle_Oyunu
 
         private void saveFile()
         {
-            string path = @"C:\\Users\\Ridvan\\source\\repos\\Puzzle Oyunu\\enyuksekskor.txt";
+            string path = @"C:\\Users\\Ridvan\\Desktop\\enyuksekskor.txt";
             System.IO.File.AppendAllText(path, point+"\n");
         }
 
